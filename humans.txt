@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wilder Correa	willycorreas@gmail.com	@willycorreas
 
 # THANKS
 
